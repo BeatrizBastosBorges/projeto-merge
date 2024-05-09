@@ -1,4 +1,4 @@
-<div align="center"># Projeto Merge</div>
+<div align="center"><h1>Projeto Merge</h1></div>
 
 <div align="justify">
 
