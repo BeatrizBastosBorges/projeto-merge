@@ -1,4 +1,4 @@
-# Projeto Merge
+<div align="center"># Projeto Merge</div>
 
 <div align="justify">
 
