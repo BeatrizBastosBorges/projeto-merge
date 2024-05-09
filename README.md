@@ -12,5 +12,7 @@ Finalizada a digitação dos 30 números, os valores deverão ser desempilhados 
 
 Obs: Desenvolver essa solução implementando as pilhas em forma de lista encadeada e de vetor.
 
-Desenvolvido por: Beatriz Bastos Borges e Miguel Luizatto Alves
+<br><br>
+
+<b>Desenvolvido por:</b> Beatriz Bastos Borges e Miguel Luizatto Alves
 </div>
