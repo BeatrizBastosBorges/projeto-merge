@@ -1,6 +1,8 @@
 #include <iostream>
 #include <locale.h>
 
+/*Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves.*/
+
 using namespace std;
 
 #define MAX 30
@@ -107,7 +109,7 @@ int main(int argc, char** argv)
     Pilha *pilhaImpar = new Pilha();
     pilhaImpar = init();
 
-    cout << "Pilha vazia: " << (isEmpty(pilhaFloat) ? "SIM" : "NÃO") << endl;
+    cout << "Pilha vazia: " << (isEmpty(pilhaFloat) ? "SIM" : "NÃƒO") << endl;
     
     cout << "\n";
 
@@ -119,7 +121,7 @@ int main(int argc, char** argv)
         cin >> valor;
         while (valor < aux)
         {
-            cout << "O valor digitado é menor que o anterior. Digite novamente" << endl;
+            cout << "O valor digitado Ã© menor que o anterior. Digite novamente" << endl;
             cin >> valor;
         }
 
@@ -150,7 +152,7 @@ int main(int argc, char** argv)
 
     cout << "\n";
 
-    cout << "Pilha ímpar: " << endl;
+    cout << "Pilha Ã­mpar: " << endl;
     print(pilhaImpar);
     
     return 0;
