@@ -1,5 +1,7 @@
 # Projeto Merge
 
+<div align="justify">
+
 Elabore um programa que permita digitar 30 números inteiros.
 
 Garantir que cada número digitado seja maior do que o anterior, mantendo a ordem crescente da digitação.
@@ -11,3 +13,4 @@ Finalizada a digitação dos 30 números, os valores deverão ser desempilhados 
 Obs: Desenvolver essa solução implementando as pilhas em forma de lista encadeada e de vetor.
 
 Desenvolvido por: Beatriz Bastos Borges e Miguel Luizatto Alves
+</div>
